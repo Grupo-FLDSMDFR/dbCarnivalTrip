@@ -78,5 +78,21 @@
       { "name": "The Pinnacles Desert" },
       { "name": "Lago Hillier" }
     ]
+  },
+  {
+    "id":6,
+    "titleItem":"Río de Janeiro",
+    "obsItem":"Río de Janeiro es una enorme ciudad costera de Brasil, famosa por sus playas de Copacabana e Ipanema, la estatua del Cristo Redentor de 38 m de alto sobre el cerro del Corcovado",
+    "quality":"10ptos",
+    "image":"https://media.ambito.com/p/f0b73d41b7f1274fc55a19fd2fae49bc/adjuntos/239/imagenes/037/849/0037849368/1200x900/smart/carnaval-rio.jpg",
+    "carnival": "Carnaval de Rio",
+    "obsCarnival": "El Carnaval de Rio de Janeiro, comienza cuarenta días antes de la Semana Santa y junto con el inicio del Carnaval viene todo un mundo de esplendor y color a través de los desfiles, las escuelas de Samba y las carrozas, las cuales tienen diferentes opciones representativa",
+    "temp": "27ºC",
+    "date": "25-02-2022 al 05-03-2022",
+    "sites": [
+      { "name": "Corcovado y el Cristo Redentor" },
+      { "name": "Copacabana" },
+      { "name": "Maracaná" }
+    ]
   }]
 }
