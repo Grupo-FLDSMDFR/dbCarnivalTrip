@@ -9,6 +9,8 @@
     "obsCarnival": "El Festival de Perth, denominado Festival Internacional de las Artes de Perth ( PIAF ) entre 2000 y 2017, y a veces denominado Festival de Perth, es el festival cultural más antiguo de Australia, que se celebra anualmente en Australia Occidental. El programa incluye música clásica y contemporánea, danza, teatro, ópera, artes visuales y obras públicas a gran escala. Los principales eventos del festival tienen lugar todos los años de febrero a marzo, con el Festival de Escritores de Perth (renombrado con otros nombres a lo largo del tiempo) en febrero, mientras que el festival de cine ahora conocido como Lotterywest Films se ejecuta de noviembre a abril, como parte del Festival de Perth.",
     "temp": "13ºC",
     "date": "01-02-2022 al 30-03-2022",
+    "latitude": "-25.2303005"
+    "longitude": "121.0187246"
     "sites": [
       { "name": "Kings Park en Australia Occidental" },
       { "name": "The Pinnacles Desert" },
@@ -25,6 +27,8 @@
     "obsCarnival": "El festival Moomba es celebrado en Melbourne durante el fin de semana del día del trabajador, que es un feriado obligatorio en Australia y regularmente corresponde al segundo lunes de Marzo. Moomba dura 4 días, culminando el día lunes del trabajador. Este festival atrae cada año a más de un millón de asistentes. Moomba es una celebración a la diversidad de los habitantes que habitan la ciudad.",
     "temp": "16ºC",
     "date": "Segunda semana de Marzo",
+    "latitude": "-37.8142176"
+    "longitude": "144.9631608"
     "sites": [
       { "name": "Kings Park en Australia Occidental" },
       { "name": "The Pinnacles Desert" },
@@ -41,6 +45,8 @@
     "obsCarnival": "Una interesante actividad que se celebra en Nueva Gales del Sur, en donde se puede participar de la cosecha de la uva y degustar los mejores vinos australianos.",
     "temp": "19ºC",
     "date": "01-02-2022 al 30-03-2022",
+    "latitude": "-31.8759835"
+    "longitude": "147.2869493"
     "sites": [
       { "name": "Kings Park en Australia Occidental" },
       { "name": "The Pinnacles Desert" },
@@ -57,6 +63,8 @@
     "obsCarnival": "El Royal Adelaide Show es un espectáculo agrícola anual dirigido por la Royal Agricultural and Horticultural Society of South Australia. Se lleva a cabo en Adelaide Showground, un lugar exclusivo ubicado en Wayville, un suburbio de Adelaide, Australia del Sur. El núcleo del espectáculo son las participaciones competitivas, como el ganado , las mascotas, las artes, la comida, las bebidas y las demostraciones de habilidad. El espectáculo presenta entradas en 63 secciones competitivas y atrae a más de 31.000 entradas al año. Además, el programa presenta entretenimiento, exhibidores, espectáculos secundarios, atracciones y exhibiciones. Asisten hasta medio millón de personas cada año, lo que lo convierte en el evento más grande del estado. También se considera el evento de mayor duración en el calendario de Australia del Sur.",
     "temp": "22ºC",
     "date": "Según Cronograma",
+    "latitude": "-34.9281805"
+    "longitude": "138.5999312"
     "sites": [
       { "name": "Kings Park en Australia Occidental" },
       { "name": "The Pinnacles Desert" },
@@ -73,6 +81,8 @@
     "obsCarnival": "Gran derroche de actos celebrados en la ciudad más dinámica de Australia. Entre estos eventos destacan diversos conciertos al aire libre, ciclos de teatro, castillos de fuegos artificiales y regatas, sobre todo la famosa Sydney to Hobart Yacht Race. Las actividades del festival tienen lugar a lo largo del mes de Enero a excepción de la Sydney to Hobart Y.R. que se celebra el día 26 de Diciembre.",
     "temp": "19ºC",
     "date": "01-01-2022 al 30-01-2022",
+    "latitude": "-33.8548157"
+    "longitude": "151.2164539"
     "sites": [
       { "name": "Kings Park en Australia Occidental" },
       { "name": "The Pinnacles Desert" },
@@ -89,6 +99,8 @@
     "obsCarnival": "El Carnaval de Rio de Janeiro, comienza cuarenta días antes de la Semana Santa y junto con el inicio del Carnaval viene todo un mundo de esplendor y color a través de los desfiles, las escuelas de Samba y las carrozas, las cuales tienen diferentes opciones representativa",
     "temp": "27ºC",
     "date": "25-02-2022 al 05-03-2022",
+    "latitude": "-22.9110137"
+    "longitude": "-43.2093727"
     "sites": [
       { "name": "Corcovado y el Cristo Redentor" },
       { "name": "Copacabana" },
