@@ -1,20 +1,20 @@
 { "CarnivalWorld": [
   {
     "id":1,
-    "titleItem":"Australia Occidental",
-    "obsItem":"Es un estado que ocupa el 32,9 por ciento occidental de la superficie terrestre de Australia, excluyendo los territorios externos. Limita con el Océano Índico al norte y al oeste, y el Océano Austral al sur, el Territorio del Norte al noreste y Australia Meridional al sureste. Australia Occidental es el estado más grande de Australia, con una superficie total de 2.527.013 kilómetros cuadrados (975.685 millas cuadradas), y la segunda subdivisión de país más grande del mundo, superada sólo por Rusia .República de Sakha .",
-    "quality":"9ptos",
-    "image":"https://www.carnifest.com/wp-content/uploads/2019/04/Perth_Festival-Photo-www.perthfestival.com_.au_.jpg",
-    "carnival": "Festival de Perth",
-    "obsCarnival": "El Festival de Perth, denominado Festival Internacional de las Artes de Perth ( PIAF ) entre 2000 y 2017, y a veces denominado Festival de Perth, es el festival cultural más antiguo de Australia, que se celebra anualmente en Australia Occidental. El programa incluye música clásica y contemporánea, danza, teatro, ópera, artes visuales y obras públicas a gran escala. Los principales eventos del festival tienen lugar todos los años de febrero a marzo, con el Festival de Escritores de Perth (renombrado con otros nombres a lo largo del tiempo) en febrero, mientras que el festival de cine ahora conocido como Lotterywest Films se ejecuta de noviembre a abril, como parte del Festival de Perth.",
-    "temp": "13ºC",
-    "date": "01-02-2022 al 30-03-2022",
-    "latitude": "-25.2303005",
-    "longitude": "121.0187246",
+    "titleItem":"Río de Janeiro",
+    "obsItem":"Río de Janeiro es una enorme ciudad costera de Brasil, famosa por sus playas de Copacabana e Ipanema, la estatua del Cristo Redentor de 38 m de alto sobre el cerro del Corcovado",
+    "quality":"10ptos",
+    "image":"https://media.ambito.com/p/f0b73d41b7f1274fc55a19fd2fae49bc/adjuntos/239/imagenes/037/849/0037849368/1200x900/smart/carnaval-rio.jpg",
+    "carnival": "Carnaval de Rio",
+    "obsCarnival": "El Carnaval de Rio de Janeiro, comienza cuarenta días antes de la Semana Santa y junto con el inicio del Carnaval viene todo un mundo de esplendor y color a través de los desfiles, las escuelas de Samba y las carrozas, las cuales tienen diferentes opciones representativa",
+    "temp": "27ºC",
+    "date": "25-02-2022 al 05-03-2022",
+    "latitude": "-22.9110137",
+    "longitude": "-43.2093727",
     "sites": [
-      { "name": "Kings Park en Australia Occidental" },
-      { "name": "The Pinnacles Desert" },
-      { "name": "Lago Hillier" }
+      { "name": "Corcovado y el Cristo Redentor" },
+      { "name": "Copacabana" },
+      { "name": "Maracaná" }
     ]
   },
   {
@@ -91,20 +91,38 @@
   },
   {
     "id":6,
-    "titleItem":"Río de Janeiro",
-    "obsItem":"Río de Janeiro es una enorme ciudad costera de Brasil, famosa por sus playas de Copacabana e Ipanema, la estatua del Cristo Redentor de 38 m de alto sobre el cerro del Corcovado",
-    "quality":"10ptos",
-    "image":"https://media.ambito.com/p/f0b73d41b7f1274fc55a19fd2fae49bc/adjuntos/239/imagenes/037/849/0037849368/1200x900/smart/carnaval-rio.jpg",
-    "carnival": "Carnaval de Rio",
-    "obsCarnival": "El Carnaval de Rio de Janeiro, comienza cuarenta días antes de la Semana Santa y junto con el inicio del Carnaval viene todo un mundo de esplendor y color a través de los desfiles, las escuelas de Samba y las carrozas, las cuales tienen diferentes opciones representativa",
+    "titleItem":"Barranquilla",
+    "obsItem":"Es un evento folclórico y cultural de Colombia, se realiza todos los años, comienza el sábado anterior al Miércoles de Ceniza y termina el martes inmediatamente posterior.",
+    "quality":"9ptos",
+    "image":"https://www.kienyke.com/sites/default/files/2021-02/Carnaval-de-Barranquilla-2021-1_1.jpg",
+    "carnival": "Carnaval de Barranquilla",
+    "obsCarnival": "El carnaval de Barranquilla es un acontecimiento en el que se expresan todas las variedades culturales y el folclor de la Costa Caribe Colombiana, así como las más variadas manifestaciones locales, como la música popular y el baile. Son motivo de risas y sustos los muchos disfraces que invocan todo tipo de especies animales, nativas y extrañas; negros africanos; cabezones; dementes; muñecotas; superhéroes; seres mitológicos, que trascienden los límites de la sexualidad y la Muerte, entre un número casi interminable de invenciones y ocurrencias populares",
     "temp": "27ºC",
-    "date": "25-02-2022 al 05-03-2022",
-    "latitude": "-22.9110137",
-    "longitude": "-43.2093727",
+    "date": "4 días antes del Miércoles de Ceniza",
+    "latitude": "10.9878",
+    "longitude": "-74.7889",
     "sites": [
-      { "name": "Corcovado y el Cristo Redentor" },
-      { "name": "Copacabana" },
-      { "name": "Maracaná" }
+      { "name": "Batalla de Flores" },
+      { "name": "Gran Parada de Comparsas" },
+      { "name": "Entierro de Joselito Carnaval" }
+    ]
+  },
+{
+    "id":7,
+    "titleItem":"Australia Occidental",
+    "obsItem":"Es un estado que ocupa el 32,9 por ciento occidental de la superficie terrestre de Australia, excluyendo los territorios externos. Limita con el Océano Índico al norte y al oeste, y el Océano Austral al sur, el Territorio del Norte al noreste y Australia Meridional al sureste. Australia Occidental es el estado más grande de Australia, con una superficie total de 2.527.013 kilómetros cuadrados (975.685 millas cuadradas), y la segunda subdivisión de país más grande del mundo, superada sólo por Rusia .República de Sakha .",
+    "quality":"9ptos",
+    "image":"https://www.carnifest.com/wp-content/uploads/2019/04/Perth_Festival-Photo-www.perthfestival.com_.au_.jpg",
+    "carnival": "Festival de Perth",
+    "obsCarnival": "El Festival de Perth, denominado Festival Internacional de las Artes de Perth ( PIAF ) entre 2000 y 2017, y a veces denominado Festival de Perth, es el festival cultural más antiguo de Australia, que se celebra anualmente en Australia Occidental. El programa incluye música clásica y contemporánea, danza, teatro, ópera, artes visuales y obras públicas a gran escala. Los principales eventos del festival tienen lugar todos los años de febrero a marzo, con el Festival de Escritores de Perth (renombrado con otros nombres a lo largo del tiempo) en febrero, mientras que el festival de cine ahora conocido como Lotterywest Films se ejecuta de noviembre a abril, como parte del Festival de Perth.",
+    "temp": "13ºC",
+    "date": "01-02-2022 al 30-03-2022",
+    "latitude": "-25.2303005",
+    "longitude": "121.0187246",
+    "sites": [
+      { "name": "Kings Park en Australia Occidental" },
+      { "name": "The Pinnacles Desert" },
+      { "name": "Lago Hillier" }
     ]
   }]
 }
